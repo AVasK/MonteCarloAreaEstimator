@@ -1,8 +1,8 @@
 # Monte-Carlo Area Estimator
 * Estimating area of complex figures.
 
-! [All you need to know about it in 1 pic] [pic]
-[pic]: https://github.com/AVasK/MonteCarloAreaEstimator/blob/master/pic.jpg
+![Screenshot][pic]
+[pic]: https://github.com/AVasK/MonteCarloAreaEstimator/blob/master/pic.jpg "How it all looks in real life"
 
 - [x] Random Sampling
 - [ ] SubRandom Sampling (for lower discrepancy, ~~__in theory__~~). 
