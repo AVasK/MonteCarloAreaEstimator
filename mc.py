@@ -150,7 +150,6 @@ def MC(vertices, iters, visualize = False, s_type = "rand"):
     sampler = {}
     sampler["rand"] = sample
     sampler["subrand"] = subsample
-    sampler["lin"] = lin(iters)
     
     if visualize:
         # Plotting the bounding box:
