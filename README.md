@@ -6,7 +6,7 @@
 
 ## To run it ~if you ever need to~ write 
 ```python
-MC(_list_of_vertices, \#of_iterations, visualise = True/False, s_type = "rand"/"subrand")
+MC(_list_of_vertices, iters, visualise = True or False, s_type = "rand" or "subrand")
 ```
 Which will run a single iteration of Monte-Carlo ~which is really annoying, i know but i don't give sh*t~
 
