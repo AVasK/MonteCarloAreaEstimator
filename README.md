@@ -2,7 +2,7 @@
 * Estimating area of complex figures.
 
 - [x] Random Sampling
-- [?] SubRandom Sampling (for lower discrepancy, ~kinda~). 
+- [v] SubRandom Sampling (for lower discrepancy, ~kinda~). 
 
 ## To run it ~if you ever need it~ write 
 ```
